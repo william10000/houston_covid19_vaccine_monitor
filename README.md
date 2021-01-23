@@ -10,7 +10,7 @@ As someone with elderly parents, I would like to know when https://houstonemerge
 
 # BVP
 
-- Run on VM or in container. This should cost just a few dollars/month.
+- Run on VM or in container. This should cost just a few dollars/month since it's such a lightweight process.
 - Don't use persistent datastore b/c #bvp
 - Save html contents of https://houstonemergency.org/covid-19-vaccines/ to memory.
 - Wait 60s

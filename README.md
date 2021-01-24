@@ -1,6 +1,6 @@
-# houston_covid19_vaccine_monitor
+# webpage_html_monitor
 
-As someone with elderly parents, I would like to know when https://houstonemergency.org/covid-19-vaccines/ is updated so that I can tell my parents to go sign up for a vaccine.
+As someone with elderly parents, I would like to know when https://houstonemergency.org/covid-19-vaccines/, or any other vaccine info web page, is updated so that I can tell my parents to go sign up for a vaccine.
 
 # Notes
 
@@ -16,6 +16,8 @@ As someone with elderly parents, I would like to know when https://houstonemerge
 - Wait 60s
 - wget https://houstonemergency.org/covid-19-vaccines/ again and compare to previous version
 - Save latest version to memory and repeat
+- progress
+  - POC working: `python main.py debug` to do 3 checks w/o checks `python main.py` for infinite looping with ~60 seconds between loops
 
 # MVP
 

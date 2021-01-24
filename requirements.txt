@@ -1,7 +1,4 @@
-alabaster==0.7.12
-anaconda-client==1.7.2
-anaconda-navigator==1.9.7
-anaconda-project==0.8.2
+alabaster==0.7.12s
 asn1crypto==0.24.0
 astroid==2.2.5
 astropy==3.1.2
@@ -25,8 +22,9 @@ Click==7.0
 cloudpickle==0.8.0
 clyent==1.2.2
 colorama==0.4.1
-conda==4.6.11
+conda==4.9.2
 conda-build==3.17.8
+conda-package-handling==1.7.2
 conda-verify==3.1.1
 contextlib2==0.5.5
 cryptography==2.6.1

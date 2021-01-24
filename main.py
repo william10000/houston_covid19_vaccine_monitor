@@ -1,7 +1,6 @@
 from datetime import datetime
 import requests
 import sys
-import time
 
 '''
 This is a script to grab HTML from a website and compare it to a previous state.
